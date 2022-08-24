@@ -3,4 +3,4 @@
 
  Projeto desenvolvido por auto-didata atraves do YouTube,sem ter conhecimentos em JavaScript
 
- <a href="https://github.com/VitorFidelis/projeto-calculadora/index.html">Executar o projeto-calculadora</a>
+ <a href="https://vitorfidelis.github.io/projeto-calculadora/index.html">Executar o projeto-calculadora</a>
